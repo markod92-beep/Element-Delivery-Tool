@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pwd -P)",
+      "Bash(node:*)",
+      "Bash(npx prisma:*)",
+      "Bash(npm install:*)",
+      "Bash(npx next:*)",
+      "Bash(curl:*)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(npx tsc:*)",
+      "Bash(npx kill-port:*)"
+    ]
+  }
+}

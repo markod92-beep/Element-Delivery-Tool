@@ -1,0 +1,4526 @@
+{
+  "fsaZones": [
+    {
+      "fsa": "M1S",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Agincourt",
+      "distanceKm": 2.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1G",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Woburn",
+      "distanceKm": 2.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1H",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Cedarbrae",
+      "distanceKm": 2.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1B",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Rouge / Malvern",
+      "distanceKm": 3.0,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1E",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Guildwood / Morningside",
+      "distanceKm": 4.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1V",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Milliken / Agincourt North",
+      "distanceKm": 4.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1X",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Rouge Hills",
+      "distanceKm": 4.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1P",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Dorset Park",
+      "distanceKm": 5.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1C",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Highland Creek / Port Union",
+      "distanceKm": 5.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1J",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Wexford / Maryvale",
+      "distanceKm": 5.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1T",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Tam O'Shanter",
+      "distanceKm": 6.1,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1W",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 L'Amoreaux",
+      "distanceKm": 7.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1R",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Wexford",
+      "distanceKm": 7.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1K",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Ionview / Kennedy Park",
+      "distanceKm": 7.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L6G",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 8.4,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L3P",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 8.6,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M1M",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Cliffside / Cliffcrest",
+      "distanceKm": 8.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L3R",
+      "zone": "Markham",
+      "description": "Markham / Unionville",
+      "distanceKm": 9.4,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M3A",
+      "zone": "Toronto",
+      "description": "North York \u2014 Don Mills North",
+      "distanceKm": 9.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2J",
+      "zone": "Toronto",
+      "description": "North York \u2014 Henry Farm / Oriole",
+      "distanceKm": 9.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L3S",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 9.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L6B",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 9.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M2H",
+      "zone": "Toronto",
+      "description": "North York \u2014 Hillcrest Village",
+      "distanceKm": 10.1,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1L",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Clairlea / Oakridge",
+      "distanceKm": 10.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4A",
+      "zone": "Toronto",
+      "description": "East York \u2014 Victoria Village",
+      "distanceKm": 10.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L6E",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 10.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L6C",
+      "zone": "Markham",
+      "description": "Markham",
+      "distanceKm": 11.2,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M3B",
+      "zone": "Toronto",
+      "description": "North York \u2014 Don Mills South",
+      "distanceKm": 11.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M3C",
+      "zone": "Toronto",
+      "description": "North York \u2014 Flemingdon Park",
+      "distanceKm": 11.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M1N",
+      "zone": "Toronto",
+      "description": "Scarborough \u2014 Birch Cliff",
+      "distanceKm": 11.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2K",
+      "zone": "Toronto",
+      "description": "North York \u2014 Bayview Village",
+      "distanceKm": 11.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4B",
+      "zone": "Toronto",
+      "description": "East York \u2014 Parkview Hill",
+      "distanceKm": 11.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1X",
+      "zone": "Pickering",
+      "description": "Pickering",
+      "distanceKm": 12.0,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L1Y",
+      "zone": "Pickering",
+      "description": "Pickering",
+      "distanceKm": 12.1,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L1V",
+      "zone": "Pickering",
+      "description": "Pickering",
+      "distanceKm": 12.3,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L1S",
+      "zone": "Ajax",
+      "description": "Ajax",
+      "distanceKm": 12.5,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L3T",
+      "zone": "Markham",
+      "description": "Markham / Thornhill border",
+      "distanceKm": 12.5,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M2L",
+      "zone": "Toronto",
+      "description": "North York \u2014 Banbury / Don Mills",
+      "distanceKm": 12.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4C",
+      "zone": "Toronto",
+      "description": "East York \u2014 Woodbine Corridor",
+      "distanceKm": 13.0,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1W",
+      "zone": "Pickering",
+      "description": "Pickering",
+      "distanceKm": 13.8,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M4H",
+      "zone": "Toronto",
+      "description": "Thorncliffe Park",
+      "distanceKm": 13.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4B",
+      "zone": "Richmond Hill",
+      "description": "Richmond Hill",
+      "distanceKm": 14.0,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M4E",
+      "zone": "Toronto",
+      "description": "East Toronto \u2014 The Beaches",
+      "distanceKm": 14.1,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2M",
+      "zone": "Toronto",
+      "description": "North York \u2014 Willowdale East",
+      "distanceKm": 14.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2N",
+      "zone": "Toronto",
+      "description": "North York \u2014 Willowdale",
+      "distanceKm": 14.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4N",
+      "zone": "Toronto",
+      "description": "Lawrence Park",
+      "distanceKm": 14.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2P",
+      "zone": "Toronto",
+      "description": "North York \u2014 York Mills",
+      "distanceKm": 14.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4G",
+      "zone": "Toronto",
+      "description": "Leaside / Thorncliffe",
+      "distanceKm": 14.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4J",
+      "zone": "Toronto",
+      "description": "East York \u2014 Broadview",
+      "distanceKm": 14.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1T",
+      "zone": "Ajax",
+      "description": "Ajax",
+      "distanceKm": 15.5,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M4L",
+      "zone": "Toronto",
+      "description": "The Beaches",
+      "distanceKm": 15.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4K",
+      "zone": "Toronto",
+      "description": "Riverdale / Greektown",
+      "distanceKm": 16.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4P",
+      "zone": "Toronto",
+      "description": "Davisville Village",
+      "distanceKm": 16.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4S",
+      "zone": "Toronto",
+      "description": "Davisville / Midtown",
+      "distanceKm": 16.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M7Y",
+      "zone": "Toronto",
+      "description": "East Toronto Business Reply",
+      "distanceKm": 16.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5M",
+      "zone": "Toronto",
+      "description": "Bedford Park",
+      "distanceKm": 16.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4R",
+      "zone": "Toronto",
+      "description": "Yonge & Eglinton",
+      "distanceKm": 16.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M2R",
+      "zone": "Toronto",
+      "description": "North York \u2014 Lansing",
+      "distanceKm": 17.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4S",
+      "zone": "Richmond Hill",
+      "description": "Richmond Hill",
+      "distanceKm": 17.4,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M4T",
+      "zone": "Toronto",
+      "description": "Moore Park / Summerhill",
+      "distanceKm": 17.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4M",
+      "zone": "Toronto",
+      "description": "Leslieville / South Riverdale",
+      "distanceKm": 17.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4W",
+      "zone": "Toronto",
+      "description": "Rosedale / Yorkville East",
+      "distanceKm": 17.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M3H",
+      "zone": "Toronto",
+      "description": "North York \u2014 Bathurst Manor",
+      "distanceKm": 17.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1Z",
+      "zone": "Ajax",
+      "description": "Ajax",
+      "distanceKm": 17.9,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M5N",
+      "zone": "Toronto",
+      "description": "Lawrence Park West",
+      "distanceKm": 17.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4X",
+      "zone": "Toronto",
+      "description": "Cabbagetown / St. James Town",
+      "distanceKm": 18.0,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4C",
+      "zone": "Richmond Hill",
+      "description": "Richmond Hill",
+      "distanceKm": 18.2,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L4J",
+      "zone": "Thornhill",
+      "description": "Thornhill",
+      "distanceKm": 18.3,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M5P",
+      "zone": "Toronto",
+      "description": "Casa Loma / Forest Hill South",
+      "distanceKm": 18.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4V",
+      "zone": "Toronto",
+      "description": "Forest Hill / Deer Park",
+      "distanceKm": 18.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M4Y",
+      "zone": "Toronto",
+      "description": "Church-Wellesley",
+      "distanceKm": 18.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5A",
+      "zone": "Toronto",
+      "description": "St. Lawrence / Corktown",
+      "distanceKm": 18.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5B",
+      "zone": "Toronto",
+      "description": "Ryerson / Garden District",
+      "distanceKm": 19.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6C",
+      "zone": "Toronto",
+      "description": "Humewood-Cedarvale",
+      "distanceKm": 19.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4A",
+      "zone": "Stouffville",
+      "description": "Stouffville",
+      "distanceKm": 19.6,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M5C",
+      "zone": "Toronto",
+      "description": "St. Lawrence Market area",
+      "distanceKm": 19.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5R",
+      "zone": "Toronto",
+      "description": "The Annex / Yorkville West",
+      "distanceKm": 19.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6A",
+      "zone": "Toronto",
+      "description": "Lawrence Heights",
+      "distanceKm": 19.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M7A",
+      "zone": "Toronto",
+      "description": "Queen's Park",
+      "distanceKm": 19.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5G",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Hospital Row / University Ave",
+      "distanceKm": 19.9,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M6B",
+      "zone": "Toronto",
+      "description": "Glencairn",
+      "distanceKm": 19.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5S",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 University of Toronto",
+      "distanceKm": 20.1,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M3K",
+      "zone": "Toronto",
+      "description": "North York \u2014 Downsview",
+      "distanceKm": 20.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5H",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Financial District",
+      "distanceKm": 20.2,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M5L",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Commerce Court area",
+      "distanceKm": 20.2,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M5E",
+      "zone": "Toronto",
+      "description": "Front St East / Distillery",
+      "distanceKm": 20.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5K",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 King & Yonge",
+      "distanceKm": 20.5,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M5X",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Underground City",
+      "distanceKm": 20.5,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M6G",
+      "zone": "Toronto",
+      "description": "Christie Pits",
+      "distanceKm": 20.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4E",
+      "zone": "Richmond Hill",
+      "description": "Richmond Hill",
+      "distanceKm": 20.6,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M6E",
+      "zone": "Toronto",
+      "description": "Caledonia-Fairbank",
+      "distanceKm": 20.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5W",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Postal Station area",
+      "distanceKm": 20.8,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M5J",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Harbourfront / Union Station",
+      "distanceKm": 20.9,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M5T",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Kensington / Chinatown",
+      "distanceKm": 20.9,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M3J",
+      "zone": "Toronto",
+      "description": "North York \u2014 York University",
+      "distanceKm": 21.0,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M5V",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Entertainment District / CityPlace",
+      "distanceKm": 21.5,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M6H",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Dovercourt / Dufferin Grove",
+      "distanceKm": 22.2,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "L1R",
+      "zone": "Whitby",
+      "description": "Whitby",
+      "distanceKm": 22.3,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M6J",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Trinity-Bellwoods / Queen West",
+      "distanceKm": 22.4,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M3M",
+      "zone": "Toronto",
+      "description": "North York \u2014 Downsview Central",
+      "distanceKm": 22.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4K",
+      "zone": "Vaughan",
+      "description": "Vaughan",
+      "distanceKm": 22.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M6L",
+      "zone": "Toronto",
+      "description": "Downsview",
+      "distanceKm": 22.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6M",
+      "zone": "Toronto",
+      "description": "Silverthorn / Mount Dennis",
+      "distanceKm": 22.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L6A",
+      "zone": "Maple",
+      "description": "Maple",
+      "distanceKm": 23.4,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M3L",
+      "zone": "Toronto",
+      "description": "North York \u2014 Downsview West",
+      "distanceKm": 23.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M3N",
+      "zone": "Toronto",
+      "description": "North York \u2014 Jane & Finch",
+      "distanceKm": 23.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6N",
+      "zone": "Toronto",
+      "description": "The Junction",
+      "distanceKm": 23.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1P",
+      "zone": "Whitby",
+      "description": "Whitby",
+      "distanceKm": 23.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M6K",
+      "zone": "Toronto Downtown",
+      "description": "Downtown Core \u2014 Liberty Village / Parkdale East",
+      "distanceKm": 23.7,
+      "distanceBand": "Downtown Core"
+    },
+    {
+      "fsa": "M6P",
+      "zone": "Toronto",
+      "description": "High Park / Bloor West",
+      "distanceKm": 24.0,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6R",
+      "zone": "Toronto",
+      "description": "Roncesvalles",
+      "distanceKm": 24.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1N",
+      "zone": "Whitby",
+      "description": "Whitby",
+      "distanceKm": 24.7,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L1M",
+      "zone": "Whitby",
+      "description": "Whitby",
+      "distanceKm": 25.0,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "L4L",
+      "zone": "Vaughan",
+      "description": "Vaughan / Woodbridge",
+      "distanceKm": 25.0,
+      "distanceBand": "0-25km"
+    },
+    {
+      "fsa": "M9N",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Weston",
+      "distanceKm": 25.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M6S",
+      "zone": "Toronto",
+      "description": "Swansea / Bloor West Village",
+      "distanceKm": 25.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9M",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Emery",
+      "distanceKm": 26.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9L",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Humber Summit",
+      "distanceKm": 26.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4H",
+      "zone": "Vaughan",
+      "description": "Vaughan / Woodbridge",
+      "distanceKm": 26.8,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M9P",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Westmount",
+      "distanceKm": 27.1,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M8X",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Islington / Kingsway",
+      "distanceKm": 27.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L7B",
+      "zone": "King City",
+      "description": "King City",
+      "distanceKm": 27.9,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M8Y",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Humber Bay",
+      "distanceKm": 27.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9A",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Islington",
+      "distanceKm": 28.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9R",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Kingsview",
+      "distanceKm": 28.7,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9V",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Rexdale",
+      "distanceKm": 29.4,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4G",
+      "zone": "Aurora",
+      "description": "Aurora",
+      "distanceKm": 29.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M8V",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Mimico",
+      "distanceKm": 30.3,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1L",
+      "zone": "Oshawa",
+      "description": "Oshawa",
+      "distanceKm": 30.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M8Z",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 South",
+      "distanceKm": 30.5,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9B",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 West Deane",
+      "distanceKm": 30.6,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "M9W",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 West",
+      "distanceKm": 30.9,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1H",
+      "zone": "Oshawa",
+      "description": "Oshawa",
+      "distanceKm": 31.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L1G",
+      "zone": "Oshawa",
+      "description": "Oshawa",
+      "distanceKm": 32.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L1J",
+      "zone": "Oshawa",
+      "description": "Oshawa",
+      "distanceKm": 32.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M9C",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Markland",
+      "distanceKm": 32.2,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L4Y",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 32.3,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5A",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 32.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M8W",
+      "zone": "Toronto",
+      "description": "Etobicoke \u2014 Long Branch",
+      "distanceKm": 32.8,
+      "distanceBand": "Toronto"
+    },
+    {
+      "fsa": "L1K",
+      "zone": "Oshawa",
+      "description": "Oshawa",
+      "distanceKm": 32.9,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L4X",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 33.4,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L3Y",
+      "zone": "Newmarket",
+      "description": "Newmarket",
+      "distanceKm": 33.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L4T",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 33.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L0G",
+      "zone": "Kleinburg",
+      "description": "Kleinburg / Nobleton area",
+      "distanceKm": 33.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L4W",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 33.9,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5B",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 33.9,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L3X",
+      "zone": "Newmarket",
+      "description": "Newmarket",
+      "distanceKm": 34.3,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L4V",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 35.2,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L4Z",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 35.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L9P",
+      "zone": "Uxbridge",
+      "description": "Uxbridge",
+      "distanceKm": 35.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "M7R",
+      "zone": "Mississauga",
+      "description": "Mississauga \u2014 Streetsville",
+      "distanceKm": 35.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5E",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 37.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5G",
+      "zone": "Mississauga",
+      "description": "Mississauga / Port Credit",
+      "distanceKm": 37.1,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5T",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 37.4,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5S",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 37.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6V",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 37.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5H",
+      "zone": "Mississauga",
+      "description": "Mississauga / Port Credit",
+      "distanceKm": 38.3,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6T",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 38.8,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5P",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 39.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5L",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 39.3,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5R",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 40.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6S",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 40.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5M",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 40.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L7E",
+      "zone": "Bolton",
+      "description": "Bolton",
+      "distanceKm": 41.1,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5C",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 41.4,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6W",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 41.4,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5W",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 41.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5N",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 41.7,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L1C",
+      "zone": "Oshawa",
+      "description": "Oshawa \u2014 Taunton",
+      "distanceKm": 42.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5K",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 42.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6R",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 42.5,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6P",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 42.9,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6X",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 43.2,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5V",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 43.8,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6Y",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 44.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L5J",
+      "zone": "Mississauga",
+      "description": "Mississauga",
+      "distanceKm": 44.2,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L6Z",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 44.3,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L7C",
+      "zone": "Caledon",
+      "description": "Caledon",
+      "distanceKm": 44.4,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L9N",
+      "zone": "East Gwillimbury",
+      "description": "East Gwillimbury / Holland Landing",
+      "distanceKm": 45.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L7A",
+      "zone": "Brampton",
+      "description": "Brampton",
+      "distanceKm": 46.6,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L1B",
+      "zone": "Clarington",
+      "description": "Courtice",
+      "distanceKm": 50.0,
+      "distanceBand": "25-50km"
+    },
+    {
+      "fsa": "L7K",
+      "zone": "Caledon",
+      "description": "Caledon",
+      "distanceKm": 51.7,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7G",
+      "zone": "Halton Hills",
+      "description": "Georgetown",
+      "distanceKm": 52.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L6J",
+      "zone": "Oakville",
+      "description": "Oakville",
+      "distanceKm": 52.1,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L6H",
+      "zone": "Oakville",
+      "description": "Oakville",
+      "distanceKm": 53.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L6K",
+      "zone": "Oakville",
+      "description": "Oakville",
+      "distanceKm": 53.9,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L0J",
+      "zone": "Halton Hills",
+      "description": "Rural Halton / Georgetown",
+      "distanceKm": 55.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L3Z",
+      "zone": "Clarington",
+      "description": "Bowmanville",
+      "distanceKm": 55.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L4P",
+      "zone": "Keswick",
+      "description": "Keswick / Georgina",
+      "distanceKm": 55.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L9L",
+      "zone": "Scugog",
+      "description": "Port Perry / Scugog",
+      "distanceKm": 55.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L6L",
+      "zone": "Oakville",
+      "description": "Oakville",
+      "distanceKm": 55.3,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L1A",
+      "zone": "Clarington",
+      "description": "Bowmanville South",
+      "distanceKm": 57.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L6M",
+      "zone": "Oakville",
+      "description": "Oakville",
+      "distanceKm": 58.3,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L9E",
+      "zone": "Milton",
+      "description": "Milton",
+      "distanceKm": 58.6,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L1E",
+      "zone": "Clarington",
+      "description": "Newcastle",
+      "distanceKm": 60.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L9T",
+      "zone": "Milton",
+      "description": "Milton",
+      "distanceKm": 61.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7J",
+      "zone": "Acton",
+      "description": "Acton",
+      "distanceKm": 65.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7L",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 65.2,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2T",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 66.1,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7M",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 66.1,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7N",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 67.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2S",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 67.2,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2M",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 68.3,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7P",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 68.4,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2N",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 69.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2P",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 69.4,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7R",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 69.7,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L0P",
+      "zone": "Durham",
+      "description": "Rural Durham North",
+      "distanceKm": 70.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L9W",
+      "zone": "Orangeville",
+      "description": "Orangeville",
+      "distanceKm": 70.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2R",
+      "zone": "St. Catharines",
+      "description": "St. Catharines",
+      "distanceKm": 70.1,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7S",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 71.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L7T",
+      "zone": "Burlington",
+      "description": "Burlington",
+      "distanceKm": 71.5,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L9X",
+      "zone": "Barrie",
+      "description": "Barrie",
+      "distanceKm": 72.3,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L2W",
+      "zone": "Thorold",
+      "description": "Thorold / Niagara",
+      "distanceKm": 73.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L4N",
+      "zone": "Barrie",
+      "description": "Barrie",
+      "distanceKm": 74.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L0E",
+      "zone": "Durham / Simcoe",
+      "description": "Beaverton / Georgina",
+      "distanceKm": 75.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L0N",
+      "zone": "Dufferin",
+      "description": "Orangeville / Shelburne area",
+      "distanceKm": 75.0,
+      "distanceBand": "50-75km"
+    },
+    {
+      "fsa": "L4M",
+      "zone": "Barrie",
+      "description": "Barrie",
+      "distanceKm": 75.6,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L2H",
+      "zone": "Niagara Falls",
+      "description": "Niagara Falls",
+      "distanceKm": 76.3,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8J",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 76.9,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8E",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 77.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8K",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 77.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L2E",
+      "zone": "Niagara Falls",
+      "description": "Niagara Falls",
+      "distanceKm": 77.6,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8H",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 77.6,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8G",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 77.9,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8L",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 78.3,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L2G",
+      "zone": "Niagara Falls",
+      "description": "Niagara Falls",
+      "distanceKm": 78.7,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9K",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 78.8,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8M",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 79.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L2J",
+      "zone": "Niagara Falls",
+      "description": "Niagara Falls",
+      "distanceKm": 79.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8N",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 79.2,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8R",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 79.7,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L0C",
+      "zone": "Simcoe County",
+      "description": "Rural Simcoe South",
+      "distanceKm": 80.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8P",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 80.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8S",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 80.3,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9H",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 81.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8W",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 81.4,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8T",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 81.8,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L8V",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 81.8,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9G",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 81.8,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9A",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 83.4,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9C",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 84.6,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L0R",
+      "zone": "Hamilton-Wentworth",
+      "description": "Rural Hamilton / Flamborough",
+      "distanceKm": 85.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9R",
+      "zone": "Alliston",
+      "description": "Alliston / New Tecumseth",
+      "distanceKm": 85.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9S",
+      "zone": "Innisfil",
+      "description": "Innisfil",
+      "distanceKm": 85.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1K",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 85.1,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1L",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 85.2,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1C",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 85.5,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9B",
+      "zone": "Hamilton",
+      "description": "Hamilton",
+      "distanceKm": 85.7,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1E",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 86.7,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1H",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 88.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1G",
+      "zone": "Guelph",
+      "description": "Guelph",
+      "distanceKm": 88.3,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L0B",
+      "zone": "Durham Region",
+      "description": "Rural Durham / Northumberland",
+      "distanceKm": 90.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L3M",
+      "zone": "Grimsby",
+      "description": "Grimsby",
+      "distanceKm": 90.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1M",
+      "zone": "Guelph",
+      "description": "Guelph \u2014 Guelph Line",
+      "distanceKm": 93.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L0L",
+      "zone": "Simcoe County",
+      "description": "Rural Simcoe County",
+      "distanceKm": 95.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3R",
+      "zone": "Brantford",
+      "description": "Brantford \u2014 East",
+      "distanceKm": 95.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3W",
+      "zone": "Caledonia",
+      "description": "Caledonia / Haldimand",
+      "distanceKm": 95.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3V",
+      "zone": "Brantford",
+      "description": "Brantford \u2014 North",
+      "distanceKm": 96.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3S",
+      "zone": "Brantford",
+      "description": "Brantford \u2014 Central",
+      "distanceKm": 97.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3T",
+      "zone": "Brantford",
+      "description": "Brantford \u2014 West",
+      "distanceKm": 98.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "L9V",
+      "zone": "Shelburne",
+      "description": "Shelburne",
+      "distanceKm": 100.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N0B",
+      "zone": "Wellington / Waterloo",
+      "description": "Rural Wellington / Waterloo",
+      "distanceKm": 100.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N3P",
+      "zone": "Brantford",
+      "description": "Brantford \u2014 North",
+      "distanceKm": 100.0,
+      "distanceBand": "75-100km"
+    },
+    {
+      "fsa": "N1R",
+      "zone": "Cambridge",
+      "description": "Cambridge",
+      "distanceKm": 100.1,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N1P",
+      "zone": "Cambridge",
+      "description": "Cambridge",
+      "distanceKm": 100.2,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N1S",
+      "zone": "Cambridge",
+      "description": "Cambridge",
+      "distanceKm": 101.4,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N1T",
+      "zone": "Cambridge",
+      "description": "Cambridge",
+      "distanceKm": 101.9,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3A",
+      "zone": "Cambridge",
+      "description": "Cambridge \u2014 Preston",
+      "distanceKm": 102.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3H",
+      "zone": "Kitchener",
+      "description": "Kitchener \u2014 Preston area",
+      "distanceKm": 102.8,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3E",
+      "zone": "Kitchener",
+      "description": "Kitchener \u2014 Blair / Preston",
+      "distanceKm": 103.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3C",
+      "zone": "Kitchener",
+      "description": "Kitchener \u2014 Preston",
+      "distanceKm": 103.4,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2A",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 105.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2C",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 105.8,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2K",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 106.2,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2B",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 106.3,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2E",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 108.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2M",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 108.2,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2R",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 108.4,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2G",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 108.5,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2H",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 108.6,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L2V",
+      "zone": "St. Catharines",
+      "description": "St. Catharines \u2014 Merritton",
+      "distanceKm": 109.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2N",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 109.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2T",
+      "zone": "Kitchener-Waterloo",
+      "description": "Waterloo",
+      "distanceKm": 109.1,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2P",
+      "zone": "Kitchener-Waterloo",
+      "description": "Kitchener",
+      "distanceKm": 109.8,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3L",
+      "zone": "Brantford",
+      "description": "Paris / Brant County",
+      "distanceKm": 110.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2J",
+      "zone": "Kitchener-Waterloo",
+      "description": "Waterloo",
+      "distanceKm": 110.2,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2L",
+      "zone": "Kitchener-Waterloo",
+      "description": "Waterloo",
+      "distanceKm": 110.6,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N2V",
+      "zone": "Kitchener-Waterloo",
+      "description": "Waterloo",
+      "distanceKm": 110.7,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L0S",
+      "zone": "Niagara",
+      "description": "Rural Niagara",
+      "distanceKm": 115.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9V",
+      "zone": "Lindsay",
+      "description": "Lindsay / Kawartha Lakes",
+      "distanceKm": 120.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L0A",
+      "zone": "Kawartha Lakes",
+      "description": "Rural Kawartha",
+      "distanceKm": 120.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9H",
+      "zone": "Peterborough",
+      "description": "Peterborough \u2014 Central",
+      "distanceKm": 125.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L3B",
+      "zone": "Welland",
+      "description": "Welland \u2014 Central",
+      "distanceKm": 125.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L3V",
+      "zone": "Orillia",
+      "description": "Orillia",
+      "distanceKm": 125.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9J",
+      "zone": "Peterborough",
+      "description": "Peterborough \u2014 South",
+      "distanceKm": 127.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L3C",
+      "zone": "Welland",
+      "description": "Welland \u2014 South",
+      "distanceKm": 127.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9K",
+      "zone": "Peterborough",
+      "description": "Peterborough \u2014 East",
+      "distanceKm": 128.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9L",
+      "zone": "Peterborough",
+      "description": "Peterborough \u2014 North",
+      "distanceKm": 130.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L0H",
+      "zone": "Northumberland",
+      "description": "Rural Northumberland",
+      "distanceKm": 130.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0A",
+      "zone": "Norfolk / Haldimand",
+      "description": "Rural Norfolk / Haldimand",
+      "distanceKm": 130.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L3K",
+      "zone": "Port Colborne",
+      "description": "Port Colborne",
+      "distanceKm": 135.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4T",
+      "zone": "Woodstock",
+      "description": "Woodstock \u2014 East",
+      "distanceKm": 138.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K9A",
+      "zone": "Cobourg",
+      "description": "Cobourg",
+      "distanceKm": 140.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L0K",
+      "zone": "Simcoe County",
+      "description": "Penetanguishene / Midland area",
+      "distanceKm": 140.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L0M",
+      "zone": "Simcoe County",
+      "description": "Wasaga Beach / Collingwood area",
+      "distanceKm": 140.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L2A",
+      "zone": "Fort Erie",
+      "description": "Fort Erie",
+      "distanceKm": 140.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4S",
+      "zone": "Woodstock",
+      "description": "Woodstock \u2014 Central",
+      "distanceKm": 140.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4V",
+      "zone": "Woodstock",
+      "description": "Woodstock \u2014 South",
+      "distanceKm": 142.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L4R",
+      "zone": "Midland",
+      "description": "Midland",
+      "distanceKm": 145.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L9Y",
+      "zone": "Collingwood",
+      "description": "Collingwood",
+      "distanceKm": 145.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N3Y",
+      "zone": "Simcoe ON",
+      "description": "Simcoe / Norfolk County",
+      "distanceKm": 145.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "L9M",
+      "zone": "Penetanguishene",
+      "description": "Penetanguishene",
+      "distanceKm": 148.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0L",
+      "zone": "Eastern Ontario",
+      "description": "Rural Peterborough / Hastings",
+      "distanceKm": 150.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0C",
+      "zone": "Grey / Dufferin",
+      "description": "Rural Grey / Dufferin",
+      "distanceKm": 150.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5C",
+      "zone": "Ingersoll",
+      "description": "Ingersoll / Oxford",
+      "distanceKm": 150.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0E",
+      "zone": "Oxford / Norfolk",
+      "description": "Rural Oxford / Norfolk",
+      "distanceKm": 155.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4B",
+      "zone": "Delhi",
+      "description": "Delhi / Norfolk County",
+      "distanceKm": 155.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4Z",
+      "zone": "Stratford",
+      "description": "Stratford area",
+      "distanceKm": 155.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5A",
+      "zone": "Stratford",
+      "description": "Stratford",
+      "distanceKm": 155.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0K",
+      "zone": "Eastern Ontario",
+      "description": "Rural Northumberland / Hastings",
+      "distanceKm": 160.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0M",
+      "zone": "Kawartha Lakes",
+      "description": "Rural Kawartha / Haliburton",
+      "distanceKm": 160.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4G",
+      "zone": "Tillsonburg",
+      "description": "Tillsonburg",
+      "distanceKm": 160.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4X",
+      "zone": "St. Marys",
+      "description": "St. Marys / Perth South",
+      "distanceKm": 160.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4W",
+      "zone": "Listowel",
+      "description": "Listowel / North Perth",
+      "distanceKm": 165.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0G",
+      "zone": "Perth / Huron",
+      "description": "Rural Perth / Huron",
+      "distanceKm": 170.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8V",
+      "zone": "Trenton",
+      "description": "Trenton / Quinte West",
+      "distanceKm": 175.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4L",
+      "zone": "Meaford",
+      "description": "Meaford",
+      "distanceKm": 175.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8W",
+      "zone": "Trenton",
+      "description": "Trenton \u2014 North",
+      "distanceKm": 178.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0K",
+      "zone": "Huron / Perth",
+      "description": "Rural Huron / Perth",
+      "distanceKm": 180.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1P",
+      "zone": "Gravenhurst",
+      "description": "Gravenhurst",
+      "distanceKm": 180.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4K",
+      "zone": "Owen Sound",
+      "description": "Owen Sound",
+      "distanceKm": 185.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5X",
+      "zone": "London",
+      "description": "London \u2014 Northeast",
+      "distanceKm": 188.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5H",
+      "zone": "Aylmer",
+      "description": "Aylmer / Malahide",
+      "distanceKm": 190.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5V",
+      "zone": "London",
+      "description": "London \u2014 East",
+      "distanceKm": 190.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6M",
+      "zone": "London",
+      "description": "London \u2014 Arva",
+      "distanceKm": 190.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5Y",
+      "zone": "London",
+      "description": "London \u2014 Central East",
+      "distanceKm": 191.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5W",
+      "zone": "London",
+      "description": "London \u2014 Southeast",
+      "distanceKm": 192.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5Z",
+      "zone": "London",
+      "description": "London \u2014 Downtown",
+      "distanceKm": 192.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6B",
+      "zone": "London",
+      "description": "London \u2014 East Central",
+      "distanceKm": 192.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8R",
+      "zone": "Belleville",
+      "description": "Belleville \u2014 East",
+      "distanceKm": 193.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6A",
+      "zone": "London",
+      "description": "London \u2014 Downtown Core",
+      "distanceKm": 193.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6C",
+      "zone": "London",
+      "description": "London \u2014 Old South",
+      "distanceKm": 194.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8N",
+      "zone": "Belleville",
+      "description": "Belleville \u2014 Central",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N4N",
+      "zone": "Hanover",
+      "description": "Hanover / West Grey",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6E",
+      "zone": "London",
+      "description": "London \u2014 South",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6K",
+      "zone": "London",
+      "description": "London \u2014 Northwest",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6P",
+      "zone": "London",
+      "description": "London \u2014 South Central",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0C",
+      "zone": "Muskoka",
+      "description": "Rural Muskoka",
+      "distanceKm": 195.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6G",
+      "zone": "London",
+      "description": "London \u2014 West",
+      "distanceKm": 196.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6J",
+      "zone": "London",
+      "description": "London \u2014 Southwest",
+      "distanceKm": 196.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6N",
+      "zone": "London",
+      "description": "London \u2014 Southeast",
+      "distanceKm": 196.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8P",
+      "zone": "Belleville",
+      "description": "Belleville \u2014 West",
+      "distanceKm": 197.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6H",
+      "zone": "London",
+      "description": "London \u2014 Westmount",
+      "distanceKm": 197.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N6L",
+      "zone": "London",
+      "description": "London \u2014 Lambeth",
+      "distanceKm": 198.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0J",
+      "zone": "Middlesex / Elgin",
+      "description": "Rural Middlesex / Elgin",
+      "distanceKm": 200.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1L",
+      "zone": "Bracebridge",
+      "description": "Bracebridge",
+      "distanceKm": 200.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5R",
+      "zone": "St. Thomas",
+      "description": "St. Thomas \u2014 East",
+      "distanceKm": 208.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5P",
+      "zone": "St. Thomas",
+      "description": "St. Thomas \u2014 Central",
+      "distanceKm": 210.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7G",
+      "zone": "Strathroy",
+      "description": "Strathroy / Middlesex",
+      "distanceKm": 210.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N5L",
+      "zone": "Port Stanley",
+      "description": "Port Stanley",
+      "distanceKm": 215.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7A",
+      "zone": "Goderich",
+      "description": "Goderich / Huron",
+      "distanceKm": 215.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0H",
+      "zone": "Bruce / Grey",
+      "description": "Rural Bruce / Grey",
+      "distanceKm": 220.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1H",
+      "zone": "Huntsville",
+      "description": "Huntsville",
+      "distanceKm": 225.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0L",
+      "zone": "Middlesex / Lambton",
+      "description": "Rural Middlesex / Lambton",
+      "distanceKm": 230.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0M",
+      "zone": "Northern Ontario",
+      "description": "Rural Muskoka / Parry Sound",
+      "distanceKm": 240.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0H",
+      "zone": "Eastern Ontario",
+      "description": "Rural Frontenac / Lennox",
+      "distanceKm": 250.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0M",
+      "zone": "Lambton / Middlesex",
+      "description": "Rural Lambton",
+      "distanceKm": 250.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P2A",
+      "zone": "Parry Sound",
+      "description": "Parry Sound",
+      "distanceKm": 250.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7N",
+      "zone": "Kingston",
+      "description": "Kingston \u2014 East",
+      "distanceKm": 262.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7K",
+      "zone": "Kingston",
+      "description": "Kingston \u2014 Central",
+      "distanceKm": 265.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7L",
+      "zone": "Kingston",
+      "description": "Kingston \u2014 Downtown / Queens",
+      "distanceKm": 267.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7M",
+      "zone": "Kingston",
+      "description": "Kingston \u2014 West",
+      "distanceKm": 270.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0N",
+      "zone": "Lambton",
+      "description": "Rural Lambton / Chatham-Kent",
+      "distanceKm": 270.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0H",
+      "zone": "Northern Ontario",
+      "description": "Rural Parry Sound",
+      "distanceKm": 270.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7P",
+      "zone": "Kingston",
+      "description": "Kingston \u2014 Cataraqui",
+      "distanceKm": 272.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7W",
+      "zone": "Sarnia",
+      "description": "Sarnia \u2014 East",
+      "distanceKm": 275.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7T",
+      "zone": "Sarnia",
+      "description": "Sarnia \u2014 North",
+      "distanceKm": 278.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7V",
+      "zone": "Sarnia",
+      "description": "Sarnia \u2014 Central",
+      "distanceKm": 279.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7S",
+      "zone": "Sarnia",
+      "description": "Sarnia \u2014 South",
+      "distanceKm": 280.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0A",
+      "zone": "Northern Ontario",
+      "description": "Rural Parry Sound / Nipissing",
+      "distanceKm": 280.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7X",
+      "zone": "Sarnia",
+      "description": "Sarnia \u2014 West",
+      "distanceKm": 282.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7R",
+      "zone": "Napanee",
+      "description": "Napanee",
+      "distanceKm": 290.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8A",
+      "zone": "Wallaceburg",
+      "description": "Wallaceburg / Chatham-Kent",
+      "distanceKm": 290.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7L",
+      "zone": "Chatham",
+      "description": "Chatham \u2014 North",
+      "distanceKm": 295.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N7M",
+      "zone": "Chatham",
+      "description": "Chatham \u2014 South",
+      "distanceKm": 297.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0B",
+      "zone": "Northern Ontario",
+      "description": "Rural Nipissing / Parry Sound",
+      "distanceKm": 300.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0E",
+      "zone": "Eastern Ontario",
+      "description": "Rural Leeds-Grenville",
+      "distanceKm": 310.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0P",
+      "zone": "Kent / Essex",
+      "description": "Rural Kent / Essex",
+      "distanceKm": 320.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7G",
+      "zone": "Brockville",
+      "description": "Brockville area",
+      "distanceKm": 335.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0G",
+      "zone": "Eastern Ontario",
+      "description": "Rural Lanark / Leeds",
+      "distanceKm": 340.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K6V",
+      "zone": "Brockville",
+      "description": "Brockville",
+      "distanceKm": 340.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1A",
+      "zone": "North Bay",
+      "description": "North Bay \u2014 West",
+      "distanceKm": 340.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1B",
+      "zone": "North Bay",
+      "description": "North Bay \u2014 Central",
+      "distanceKm": 342.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P1C",
+      "zone": "North Bay",
+      "description": "North Bay \u2014 East",
+      "distanceKm": 344.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7A",
+      "zone": "Smiths Falls",
+      "description": "Smiths Falls",
+      "distanceKm": 350.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7C",
+      "zone": "Perth ON",
+      "description": "Perth",
+      "distanceKm": 360.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N0R",
+      "zone": "Essex",
+      "description": "Rural Essex",
+      "distanceKm": 360.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P2B",
+      "zone": "Sturgeon Falls",
+      "description": "Sturgeon Falls / West Nipissing",
+      "distanceKm": 360.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9Y",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Belle River",
+      "distanceKm": 365.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0J",
+      "zone": "Eastern Ontario",
+      "description": "Rural Renfrew / Lanark",
+      "distanceKm": 370.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8M",
+      "zone": "Essex",
+      "description": "Essex",
+      "distanceKm": 370.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8R",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Tecumseh",
+      "distanceKm": 372.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9V",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Tecumseh East",
+      "distanceKm": 373.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8T",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 East",
+      "distanceKm": 374.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8N",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Riverside",
+      "distanceKm": 375.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8S",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 South",
+      "distanceKm": 376.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8W",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Central",
+      "distanceKm": 377.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8B",
+      "zone": "Pembroke",
+      "description": "Pembroke \u2014 East",
+      "distanceKm": 378.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8P",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Forest Glade",
+      "distanceKm": 378.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8Y",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Downtown",
+      "distanceKm": 378.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9A",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Downtown Core",
+      "distanceKm": 378.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8X",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 West",
+      "distanceKm": 379.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9C",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 South Windsor",
+      "distanceKm": 379.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7H",
+      "zone": "Carleton Place",
+      "description": "Carleton Place",
+      "distanceKm": 380.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8A",
+      "zone": "Pembroke",
+      "description": "Pembroke",
+      "distanceKm": 380.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9B",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Sandwich",
+      "distanceKm": 380.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9G",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Roseland",
+      "distanceKm": 380.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9E",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Ojibway",
+      "distanceKm": 381.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9H",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 LaSalle",
+      "distanceKm": 383.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N8H",
+      "zone": "Leamington",
+      "description": "Leamington / Essex",
+      "distanceKm": 385.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9K",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Essex",
+      "distanceKm": 388.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "N9J",
+      "zone": "Windsor",
+      "description": "Windsor \u2014 Amherstburg",
+      "distanceKm": 390.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3A",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 South",
+      "distanceKm": 390.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3B",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 East",
+      "distanceKm": 392.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3C",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Central",
+      "distanceKm": 395.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3E",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Downtown",
+      "distanceKm": 395.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0A",
+      "zone": "Eastern Ontario",
+      "description": "Rural Eastern Ontario",
+      "distanceKm": 400.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K7S",
+      "zone": "Arnprior",
+      "description": "Arnprior",
+      "distanceKm": 400.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3Y",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Lively",
+      "distanceKm": 400.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3G",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Valley East",
+      "distanceKm": 405.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K6J",
+      "zone": "Cornwall",
+      "description": "Cornwall \u2014 East",
+      "distanceKm": 408.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3L",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Chelmsford",
+      "distanceKm": 408.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K6T",
+      "zone": "Cornwall",
+      "description": "Cornwall \u2014 Industrial",
+      "distanceKm": 409.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K6H",
+      "zone": "Cornwall",
+      "description": "Cornwall \u2014 Central",
+      "distanceKm": 410.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K8H",
+      "zone": "Petawawa",
+      "description": "Petawawa",
+      "distanceKm": 410.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3N",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Hanmer",
+      "distanceKm": 410.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K6K",
+      "zone": "Cornwall",
+      "description": "Cornwall \u2014 West",
+      "distanceKm": 412.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0C",
+      "zone": "Eastern Ontario",
+      "description": "Rural Stormont-Dundas-Glengarry",
+      "distanceKm": 415.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P3P",
+      "zone": "Sudbury",
+      "description": "Sudbury \u2014 Capreol",
+      "distanceKm": 415.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K0B",
+      "zone": "Eastern Ontario",
+      "description": "Rural Prescott-Russell",
+      "distanceKm": 420.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0N",
+      "zone": "Northern Ontario",
+      "description": "Rural Sudbury",
+      "distanceKm": 420.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4C",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Embrun / Russell",
+      "distanceKm": 430.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4K",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Vars",
+      "distanceKm": 432.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4B",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Navan / Sarsfield",
+      "distanceKm": 435.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4A",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Fallingbrook",
+      "distanceKm": 438.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1B",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Blackburn Hamlet",
+      "distanceKm": 440.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1W",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Cumberland",
+      "distanceKm": 440.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P5E",
+      "zone": "Espanola",
+      "description": "Espanola",
+      "distanceKm": 440.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1X",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Gloucester",
+      "distanceKm": 441.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1C",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Orleans South",
+      "distanceKm": 442.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4P",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Greely",
+      "distanceKm": 442.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1V",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 South Keys / Greenboro",
+      "distanceKm": 443.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1E",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Orleans",
+      "distanceKm": 445.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1T",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Hunt Club",
+      "distanceKm": 445.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4M",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Osgoode / Metcalfe",
+      "distanceKm": 445.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1G",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Alta Vista",
+      "distanceKm": 448.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1J",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Manor Park",
+      "distanceKm": 448.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1K",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Vanier",
+      "distanceKm": 449.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1L",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Overbrook",
+      "distanceKm": 449.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1A",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Government / Parliament",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1H",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Old Ottawa South",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1M",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Rockcliffe Park",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1N",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Sandy Hill / Byward",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1P",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Downtown Core",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2E",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Confederation Heights",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0G",
+      "zone": "Northern Ontario",
+      "description": "Rural Manitoulin",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0J",
+      "zone": "Northern Ontario",
+      "description": "Rural Nipissing / Timiskaming",
+      "distanceKm": 450.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1R",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Centretown",
+      "distanceKm": 451.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2P",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Centretown",
+      "distanceKm": 451.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1S",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Old Ottawa South",
+      "distanceKm": 452.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1Y",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Hintonburg",
+      "distanceKm": 452.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K1Z",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Westboro",
+      "distanceKm": 453.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2C",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Algonquin",
+      "distanceKm": 453.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2A",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Lincoln Heights",
+      "distanceKm": 454.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2B",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Bayshore",
+      "distanceKm": 455.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2G",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Nepean Central",
+      "distanceKm": 455.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2V",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Nepean South",
+      "distanceKm": 455.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2H",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Bells Corners",
+      "distanceKm": 458.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2J",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Barrhaven",
+      "distanceKm": 458.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2R",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Manotick",
+      "distanceKm": 460.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K4R",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Richmond",
+      "distanceKm": 460.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0P",
+      "zone": "Northern Ontario",
+      "description": "Rural Sudbury / Manitoulin",
+      "distanceKm": 460.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2K",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Kanata Central",
+      "distanceKm": 465.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2S",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Stittsville",
+      "distanceKm": 465.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2L",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Kanata South",
+      "distanceKm": 466.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2T",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Kanata Lakes",
+      "distanceKm": 467.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2M",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Kanata West",
+      "distanceKm": 468.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "K2W",
+      "zone": "Ottawa",
+      "description": "Ottawa \u2014 Carp / West Carleton",
+      "distanceKm": 470.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0K",
+      "zone": "Northern Ontario",
+      "description": "Rural Timiskaming",
+      "distanceKm": 500.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0E",
+      "zone": "Northern Ontario",
+      "description": "Rural Algoma",
+      "distanceKm": 550.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P5A",
+      "zone": "Elliot Lake",
+      "description": "Elliot Lake",
+      "distanceKm": 560.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0R",
+      "zone": "Northern Ontario",
+      "description": "Rural Algoma",
+      "distanceKm": 580.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P2N",
+      "zone": "Kirkland Lake",
+      "description": "Kirkland Lake",
+      "distanceKm": 580.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0L",
+      "zone": "Northern Ontario",
+      "description": "Rural Cochrane",
+      "distanceKm": 600.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0S",
+      "zone": "Northern Ontario",
+      "description": "Rural Algoma / Sault area",
+      "distanceKm": 620.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P4N",
+      "zone": "Timmins",
+      "description": "Timmins \u2014 South",
+      "distanceKm": 680.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P4P",
+      "zone": "Timmins",
+      "description": "Timmins \u2014 Central",
+      "distanceKm": 682.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P4R",
+      "zone": "Timmins",
+      "description": "Timmins \u2014 North",
+      "distanceKm": 685.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P6C",
+      "zone": "Sault Ste. Marie",
+      "description": "Sault Ste. Marie \u2014 East",
+      "distanceKm": 688.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P6A",
+      "zone": "Sault Ste. Marie",
+      "description": "Sault Ste. Marie \u2014 Central",
+      "distanceKm": 690.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P6B",
+      "zone": "Sault Ste. Marie",
+      "description": "Sault Ste. Marie \u2014 West",
+      "distanceKm": 692.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0T",
+      "zone": "Northern Ontario",
+      "description": "Rural Cochrane / Hearst",
+      "distanceKm": 750.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P5N",
+      "zone": "Kapuskasing",
+      "description": "Kapuskasing",
+      "distanceKm": 850.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7A",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 North",
+      "distanceKm": 1380.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7E",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 East",
+      "distanceKm": 1382.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7B",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 Central",
+      "distanceKm": 1385.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7C",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 South",
+      "distanceKm": 1388.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7G",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 West",
+      "distanceKm": 1390.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7J",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 Neebing",
+      "distanceKm": 1392.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P7K",
+      "zone": "Thunder Bay",
+      "description": "Thunder Bay \u2014 Rural",
+      "distanceKm": 1395.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0X",
+      "zone": "Northern Ontario",
+      "description": "Rural Thunder Bay",
+      "distanceKm": 1400.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0V",
+      "zone": "Northern Ontario",
+      "description": "Rural Thunder Bay / Rainy River",
+      "distanceKm": 1500.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P8N",
+      "zone": "Dryden",
+      "description": "Dryden",
+      "distanceKm": 1600.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P8T",
+      "zone": "Sioux Lookout",
+      "description": "Sioux Lookout",
+      "distanceKm": 1650.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P0W",
+      "zone": "Northern Ontario",
+      "description": "Rural Kenora / Rainy River",
+      "distanceKm": 1700.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P9A",
+      "zone": "Fort Frances",
+      "description": "Fort Frances",
+      "distanceKm": 1750.0,
+      "distanceBand": "100km+"
+    },
+    {
+      "fsa": "P9N",
+      "zone": "Kenora",
+      "description": "Kenora",
+      "distanceKm": 1900.0,
+      "distanceBand": "100km+"
+    }
+  ],
+  "distancePricing": [
+    {
+      "band": "0-25km",
+      "ltlRate": 100.0,
+      "ftlRate": 150.0,
+      "minOrder": 300.0,
+      "rateType": "Flat",
+      "notes": ""
+    },
+    {
+      "band": "25-50km",
+      "ltlRate": 150.0,
+      "ftlRate": 200.0,
+      "minOrder": 750.0,
+      "rateType": "Flat",
+      "notes": ""
+    },
+    {
+      "band": "50-75km",
+      "ltlRate": 250.0,
+      "ftlRate": 300.0,
+      "minOrder": 1000.0,
+      "rateType": "Flat",
+      "notes": ""
+    },
+    {
+      "band": "75-100km",
+      "ltlRate": 400.0,
+      "ftlRate": 500.0,
+      "minOrder": 1000.0,
+      "rateType": "Flat",
+      "notes": ""
+    },
+    {
+      "band": "100km+",
+      "ltlRate": 5.0,
+      "ftlRate": 8.0,
+      "minOrder": 1000.0,
+      "rateType": "Per KM",
+      "notes": "Rate \u00d7 distance in km"
+    },
+    {
+      "band": "Downtown Core",
+      "ltlRate": 250.0,
+      "ftlRate": 250.0,
+      "minOrder": 300.0,
+      "rateType": "Flat",
+      "notes": "Special zone \u2014 flat rate regardless of distance"
+    },
+    {
+      "band": "Toronto",
+      "ltlRate": 160.0,
+      "ftlRate": 160.0,
+      "minOrder": 300.0,
+      "rateType": "Flat",
+      "notes": "Special zone \u2014 flat rate regardless of distance"
+    }
+  ],
+  "venues": [
+    {
+      "name": "Art Gallery of Ontario",
+      "altName": "AGO",
+      "associatedFSAs": "M5T",
+      "feeRate": 6.0,
+      "feeType": "% of Revenue",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 20.2,
+      "notes": "Dundas & McCaul"
+    },
+    {
+      "name": "Royal Ontario Museum",
+      "altName": "ROM",
+      "associatedFSAs": "M5S",
+      "feeRate": 6.0,
+      "feeType": "% of Revenue",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 18.6,
+      "notes": "Bloor & University"
+    },
+    {
+      "name": "Evergreen Brickworks",
+      "altName": "Evergreen Brick Works",
+      "associatedFSAs": "M4W",
+      "feeRate": 6.0,
+      "feeType": "% of Revenue",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 15.0,
+      "notes": "Bayview & Pottery Rd"
+    },
+    {
+      "name": "Hockey Hall of Fame",
+      "altName": "HHOF",
+      "associatedFSAs": "M5E",
+      "feeRate": 6.0,
+      "feeType": "% of Revenue",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 20.0,
+      "notes": "Front & Yonge"
+    },
+    {
+      "name": "Four Seasons Centre",
+      "altName": "Canadian Opera Company",
+      "associatedFSAs": "M5G,M5H",
+      "feeRate": 6.0,
+      "feeType": "% of Revenue",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 19.0,
+      "notes": "University & Queen"
+    },
+    {
+      "name": "MaRS Discovery District",
+      "altName": "MARS",
+      "associatedFSAs": "M5G",
+      "feeRate": 75.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 19.0,
+      "notes": ""
+    },
+    {
+      "name": "Massey Hall",
+      "altName": "",
+      "associatedFSAs": "M5B",
+      "feeRate": 375.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 18.0,
+      "notes": ""
+    },
+    {
+      "name": "Distillery District",
+      "altName": "",
+      "associatedFSAs": "M5A",
+      "feeRate": 200.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 14.0,
+      "notes": ""
+    },
+    {
+      "name": "Roy Thomson Hall",
+      "altName": "Roy Thompson Hall",
+      "associatedFSAs": "M5J",
+      "feeRate": 250.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 19.0,
+      "notes": ""
+    },
+    {
+      "name": "Toronto Botanical Gardens",
+      "altName": "",
+      "associatedFSAs": "M3C",
+      "feeRate": 150.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 15.0,
+      "notes": ""
+    },
+    {
+      "name": "Terrace Banquet Centre",
+      "altName": "",
+      "associatedFSAs": "L4K",
+      "feeRate": 195.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 10.0,
+      "notes": "Up for review in July"
+    },
+    {
+      "name": "Aga Khan Museum (Tent)",
+      "altName": "",
+      "associatedFSAs": "M3C",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 7.4,
+      "notes": "CFR: Tent setup"
+    },
+    {
+      "name": "Aga Khan Museum (Inside)",
+      "altName": "",
+      "associatedFSAs": "M3C",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 7.4,
+      "notes": "CFR: Indoor"
+    },
+    {
+      "name": "Broadview Hotel",
+      "altName": "",
+      "associatedFSAs": "M4M",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.5,
+      "kmFromWarehouse": 7.5,
+      "notes": "2nd floor via staircase only"
+    },
+    {
+      "name": "Globe and Mail Centre",
+      "altName": "",
+      "associatedFSAs": "M5A",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.4,
+      "kmFromWarehouse": 18.0,
+      "notes": ""
+    },
+    {
+      "name": "DX (Design Exchange)",
+      "altName": "",
+      "associatedFSAs": "M5K",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.5,
+      "kmFromWarehouse": 19.0,
+      "notes": ""
+    },
+    {
+      "name": "Graydon Hall Manor",
+      "altName": "",
+      "associatedFSAs": "M3A",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 3.4,
+      "notes": ""
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "altName": "",
+      "associatedFSAs": "M4W",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.5,
+      "kmFromWarehouse": 18.3,
+      "notes": "No delivery weekdays before 12pm"
+    },
+    {
+      "name": "Hotel X \u2014 Tents",
+      "altName": "",
+      "associatedFSAs": "M6K",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 22.5,
+      "notes": ""
+    },
+    {
+      "name": "Hotel X \u2014 2nd Floor",
+      "altName": "",
+      "associatedFSAs": "M6K",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.0,
+      "kmFromWarehouse": 22.5,
+      "notes": "No 8ft equipment to 3rd floor"
+    },
+    {
+      "name": "King Eddy Hotel",
+      "altName": "",
+      "associatedFSAs": "M5C",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.5,
+      "kmFromWarehouse": 19.0,
+      "notes": "No 8ft equipment to 17th floor"
+    },
+    {
+      "name": "Park Hyatt",
+      "altName": "",
+      "associatedFSAs": "M5R",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 18.0,
+      "notes": ""
+    },
+    {
+      "name": "Royal Conservatory of Music",
+      "altName": "RCM",
+      "associatedFSAs": "M5S",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.45,
+      "kmFromWarehouse": 19.0,
+      "notes": ""
+    },
+    {
+      "name": "Ricarda's",
+      "altName": "",
+      "associatedFSAs": "M5V",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.2,
+      "kmFromWarehouse": 20.0,
+      "notes": ""
+    },
+    {
+      "name": "Ritz Carlton Toronto",
+      "altName": "",
+      "associatedFSAs": "M5V",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 3.0,
+      "kmFromWarehouse": 19.4,
+      "notes": ""
+    },
+    {
+      "name": "Royal York Hotel",
+      "altName": "",
+      "associatedFSAs": "M5J",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.0,
+      "kmFromWarehouse": 19.0,
+      "notes": "Hydraulic elevator"
+    },
+    {
+      "name": "Shangri-La Toronto",
+      "altName": "",
+      "associatedFSAs": "M5H",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.4,
+      "kmFromWarehouse": 12.1,
+      "notes": ""
+    },
+    {
+      "name": "Steam Whistle Brewing",
+      "altName": "",
+      "associatedFSAs": "M5V",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 0.9,
+      "kmFromWarehouse": 21.0,
+      "notes": ""
+    },
+    {
+      "name": "The Symes \u2014 1st Floor",
+      "altName": "",
+      "associatedFSAs": "M6N",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 21.9,
+      "notes": ""
+    },
+    {
+      "name": "The Symes \u2014 2nd Floor",
+      "altName": "",
+      "associatedFSAs": "M6N",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.1,
+      "kmFromWarehouse": 21.9,
+      "notes": ""
+    },
+    {
+      "name": "Casa Loma \u2014 Conservatory",
+      "altName": "",
+      "associatedFSAs": "M5R",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.0,
+      "kmFromWarehouse": 7.7,
+      "notes": ""
+    },
+    {
+      "name": "Casa Loma \u2014 Glass Pavilion",
+      "altName": "",
+      "associatedFSAs": "M5R",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 3.0,
+      "kmFromWarehouse": 7.7,
+      "notes": "Late access, slope to pavilion"
+    },
+    {
+      "name": "The Carlu",
+      "altName": "",
+      "associatedFSAs": "M5B",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.5,
+      "kmFromWarehouse": 10.1,
+      "notes": ""
+    },
+    {
+      "name": "Gardiner Museum \u2014 Main Floor",
+      "altName": "",
+      "associatedFSAs": "M5S",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.0,
+      "kmFromWarehouse": 9.9,
+      "notes": ""
+    },
+    {
+      "name": "Gardiner Museum \u2014 2nd Floor",
+      "altName": "",
+      "associatedFSAs": "M5S",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.5,
+      "kmFromWarehouse": 9.9,
+      "notes": ""
+    },
+    {
+      "name": "Toronto Ref Library \u2014 Main",
+      "altName": "",
+      "associatedFSAs": "M4W",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.5,
+      "kmFromWarehouse": 10.9,
+      "notes": ""
+    },
+    {
+      "name": "Toronto Ref Library \u2014 3rd Floor",
+      "altName": "",
+      "associatedFSAs": "M4W",
+      "feeRate": 0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 2.5,
+      "kmFromWarehouse": 10.9,
+      "notes": ""
+    },
+    {
+      "name": "Toronto Island ",
+      "altName": "",
+      "associatedFSAs": "M5V",
+      "feeRate": 1500.0,
+      "feeType": "Flat Rate ($)",
+      "cfrMultiplier": 1.0,
+      "kmFromWarehouse": 0,
+      "notes": ""
+    }
+  ],
+  "complexities": [
+    {
+      "item": "Shopping Mall",
+      "surcharge": 300.0,
+      "notes": "Replaces base delivery"
+    },
+    {
+      "item": "Hotel Delivery",
+      "surcharge": 300.0,
+      "notes": "Inclusive rate"
+    },
+    {
+      "item": "Island or Barge Delivery",
+      "surcharge": 300.0,
+      "notes": "Water crossing"
+    },
+    {
+      "item": "Stair-Only Delivery",
+      "surcharge": 300.0,
+      "notes": "No elevator, manual carry"
+    },
+    {
+      "item": "Hand-Bombing (manual unload)",
+      "surcharge": 300.0,
+      "notes": "Piece-by-piece"
+    },
+    {
+      "item": "Multi-Site or Multi-Floor",
+      "surcharge": 300.0,
+      "notes": "Multiple delivery points"
+    },
+    {
+      "item": "Non-Main Floor \u2014 House",
+      "surcharge": 100.0,
+      "notes": "Clear access"
+    },
+    {
+      "item": "Restricted Access",
+      "surcharge": 100.0,
+      "notes": "Limited vehicle access"
+    },
+    {
+      "item": "Security & Gate Requirements",
+      "surcharge": 100.0,
+      "notes": "Check-in / escorts"
+    },
+    {
+      "item": "Street-Level Offloading",
+      "surcharge": 100.0,
+      "notes": "No dock, curbside"
+    },
+    {
+      "item": "No Parking Availability",
+      "surcharge": 100.0,
+      "notes": "Paid/distant parking"
+    },
+    {
+      "item": "Non-Main Floor \u2014 Condo",
+      "surcharge": 200.0,
+      "notes": "Elevator access"
+    },
+    {
+      "item": "Non-Main Floor \u2014 Commercial",
+      "surcharge": 200.0,
+      "notes": "See elevator type"
+    },
+    {
+      "item": "Height Limitations for Trucks",
+      "surcharge": 200.0,
+      "notes": "Overhead clearance"
+    },
+    {
+      "item": "Limited Dock Access / Delays",
+      "surcharge": 200.0,
+      "notes": "Shared loading dock"
+    },
+    {
+      "item": "Elevator Constraints",
+      "surcharge": 200.0,
+      "notes": "Size/timing restrictions"
+    }
+  ],
+  "cfrItems": [
+    {
+      "name": "Bistro Tables",
+      "truckCapacity": 60,
+      "setupTimeMin": 2.3,
+      "category": "Tables"
+    },
+    {
+      "name": "Bar Cart",
+      "truckCapacity": 24,
+      "setupTimeMin": 3.5,
+      "category": "Bars"
+    },
+    {
+      "name": "Corner Bar",
+      "truckCapacity": 72,
+      "setupTimeMin": 9.0,
+      "category": "Bars"
+    },
+    {
+      "name": "Dining Chair Stackable (Isabella, ghost, willow, waldorf, natural wishbone",
+      "truckCapacity": 300,
+      "setupTimeMin": 0.83,
+      "category": "Seating"
+    },
+    {
+      "name": "Dining C stack con't. (farmhouse, nordique, tolix)",
+      "truckCapacity": 300,
+      "setupTimeMin": 0.83,
+      "category": "Other"
+    },
+    {
+      "name": "White resin folding chairs",
+      "truckCapacity": 1200,
+      "setupTimeMin": 0.83,
+      "category": "Seating"
+    },
+    {
+      "name": "Occasional non-stack (Cane, speaker, director, bamboo",
+      "truckCapacity": 108,
+      "setupTimeMin": 2.5,
+      "category": "Other"
+    },
+    {
+      "name": "Occ. Non-stact con't (slipper, club, python, mademoiselle, lounge)",
+      "truckCapacity": 108,
+      "setupTimeMin": 1.7,
+      "category": "Lounge"
+    },
+    {
+      "name": "Wishbone Chairs - white and black",
+      "truckCapacity": 96,
+      "setupTimeMin": 2.5,
+      "category": "Seating"
+    },
+    {
+      "name": "Barstool Stackable (ghost)",
+      "truckCapacity": 300,
+      "setupTimeMin": 0.83,
+      "category": "Seating"
+    },
+    {
+      "name": "Barstool non-stack (wishbone , waldorf, reclaimed, willow)",
+      "truckCapacity": 96,
+      "setupTimeMin": 1.2,
+      "category": "Seating"
+    },
+    {
+      "name": "Mini Cruiser Tables (18\") ",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Square 26\" cruiser tables / round wood cruisers",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Communal Table 6' x 30\" and 6' x 18'",
+      "truckCapacity": 30,
+      "setupTimeMin": 7.5,
+      "category": "Tables"
+    },
+    {
+      "name": "6 Foot Bars / 4 Foot Bars",
+      "truckCapacity": 24,
+      "setupTimeMin": 7.0,
+      "category": "Bars"
+    },
+    {
+      "name": "6ft (1/8) Curved Bars ",
+      "truckCapacity": 16,
+      "setupTimeMin": 15.0,
+      "category": "Bars"
+    },
+    {
+      "name": "1/16th Curved Bar",
+      "truckCapacity": 32,
+      "setupTimeMin": 8.0,
+      "category": "Bars"
+    },
+    {
+      "name": "Back Bars - 5 shelf and 3 shelf (6' long) ",
+      "truckCapacity": 24,
+      "setupTimeMin": 10.0,
+      "category": "Bars"
+    },
+    {
+      "name": "Back Bar - tall wood back bar ",
+      "truckCapacity": 24,
+      "setupTimeMin": 10.0,
+      "category": "Bars"
+    },
+    {
+      "name": "New bars - Dorset and Avalon",
+      "truckCapacity": 8,
+      "setupTimeMin": 5.0,
+      "category": "Bars"
+    },
+    {
+      "name": "New back bars - Dorset",
+      "truckCapacity": 27,
+      "setupTimeMin": 5.0,
+      "category": "Bars"
+    },
+    {
+      "name": "8' bench",
+      "truckCapacity": 120,
+      "setupTimeMin": 2.3,
+      "category": "Other"
+    },
+    {
+      "name": "8' white-washed wood dining table",
+      "truckCapacity": 60,
+      "setupTimeMin": 7.0,
+      "category": "Tables"
+    },
+    {
+      "name": "8' dining tables - metal frame",
+      "truckCapacity": 50,
+      "setupTimeMin": 10.0,
+      "category": "Tables"
+    },
+    {
+      "name": "8' sofa table.",
+      "truckCapacity": 30,
+      "setupTimeMin": 10.0,
+      "category": "Tables"
+    },
+    {
+      "name": "60\" and 48\" wood dining tables (assemby req. on site) ",
+      "truckCapacity": 50,
+      "setupTimeMin": 15.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Sofas 8' and 6'",
+      "truckCapacity": 20,
+      "setupTimeMin": 7.5,
+      "category": "Lounge"
+    },
+    {
+      "name": "1/4 curved sofas",
+      "truckCapacity": 12,
+      "setupTimeMin": 7.5,
+      "category": "Lounge"
+    },
+    {
+      "name": "8 ft. Curved/club Sofa  - 88 inch. (18 inches) ",
+      "truckCapacity": 12,
+      "setupTimeMin": 7.5,
+      "category": "Lounge"
+    },
+    {
+      "name": "salter sofa/leather club sofa/outdoor sofa",
+      "truckCapacity": 18,
+      "setupTimeMin": 7.5,
+      "category": "Lounge"
+    },
+    {
+      "name": "Bourne",
+      "truckCapacity": 10,
+      "setupTimeMin": 20.0,
+      "category": "Lounge"
+    },
+    {
+      "name": "round coffee tables ",
+      "truckCapacity": 40,
+      "setupTimeMin": 8.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Rectangular Coffee table",
+      "truckCapacity": 72,
+      "setupTimeMin": 8.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Ottoman / Cocktail tables  / End tables - 12 per skid",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Cushions",
+      "truckCapacity": 1000,
+      "setupTimeMin": 0.5,
+      "category": "Lounge"
+    },
+    {
+      "name": "Charger",
+      "truckCapacity": 1200,
+      "setupTimeMin": 0.5,
+      "category": "Tableware"
+    },
+    {
+      "name": "Plinth",
+      "truckCapacity": 72,
+      "setupTimeMin": 2.0,
+      "category": "Decor"
+    },
+    {
+      "name": "Tree stump",
+      "truckCapacity": 324,
+      "setupTimeMin": 2.0,
+      "category": "Decor"
+    },
+    {
+      "name": "Fiddle fig tree",
+      "truckCapacity": 12,
+      "setupTimeMin": 10.0,
+      "category": "Decor"
+    },
+    {
+      "name": "Large square Coffee table",
+      "truckCapacity": 22,
+      "setupTimeMin": 20.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Wicker/large chandelier",
+      "truckCapacity": 10,
+      "setupTimeMin": 5.0,
+      "category": "Lighting"
+    },
+    {
+      "name": "Gallery 8ft.",
+      "truckCapacity": 90,
+      "setupTimeMin": 5.0,
+      "category": "Display"
+    },
+    {
+      "name": "Gallery 6ft",
+      "truckCapacity": 96,
+      "setupTimeMin": 5.0,
+      "category": "Display"
+    },
+    {
+      "name": "Round Table 60\"",
+      "truckCapacity": 100,
+      "setupTimeMin": 5.0,
+      "category": "Tables"
+    },
+    {
+      "name": "Round Table 72\"",
+      "truckCapacity": 100,
+      "setupTimeMin": 5.0,
+      "category": "Tables"
+    },
+    {
+      "name": "dish skids",
+      "truckCapacity": 10,
+      "setupTimeMin": 5.0,
+      "category": "Tableware"
+    },
+    {
+      "name": "Art Deco Lamps",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Lighting"
+    },
+    {
+      "name": "Palm Lamps",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Lighting"
+    },
+    {
+      "name": "Chandeliers - barrel stave",
+      "truckCapacity": 10,
+      "setupTimeMin": 5.0,
+      "category": "Bars"
+    },
+    {
+      "name": "Semi-circle bar backs 3 and 5 shelf",
+      "truckCapacity": 24,
+      "setupTimeMin": 10.0,
+      "category": "Bars"
+    },
+    {
+      "name": "Ball Topiary",
+      "truckCapacity": 144,
+      "setupTimeMin": 4.0,
+      "category": "Decor"
+    },
+    {
+      "name": "9 ft. Topiary",
+      "truckCapacity": 12,
+      "setupTimeMin": 10.0,
+      "category": "Decor"
+    }
+  ],
+  "config": {
+    "warehouseAddress": "601 Milner Ave, Scarborough, ON",
+    "distanceBand1Max": 25,
+    "distanceBand2Max": 50,
+    "distanceBand3Max": 75,
+    "distanceBand4Max": 100,
+    "maxDeliveryRange": 300,
+    "densityFlatware": 15000,
+    "densityMixed": 12000,
+    "densityFurniture": 6000,
+    "ftlThreshold": 0.6,
+    "chairSetupRate": 3,
+    "tableSetupRate": 7,
+    "furnitureSetupRate": 14,
+    "minSetupCharge": 500,
+    "labourRate": 28.79,
+    "fuelCostPerKm": 0.58,
+    "truckCostPerKm": 0.7,
+    "truckRMPerKm": 0.2,
+    "avgDrivingSpeed": 46,
+    "loadUnloadTime": 30,
+    "avgInterStopDistance": 20,
+    "freightElevatorCost": 125,
+    "passengerElevatorCost": 190,
+    "noElevatorCost": 250
+  },
+  "windowDiscounts": [
+    {
+      "direction": "Delivery",
+      "startTime": "8AM-12PM",
+      "twoHr": -0.4,
+      "fourHrAM": 0,
+      "fourHrPM": 0,
+      "eightHr": 0.25
+    },
+    {
+      "direction": "Delivery",
+      "startTime": "12PM Onwards",
+      "twoHr": -0.4,
+      "fourHrAM": 0.25,
+      "fourHrPM": 0.25,
+      "eightHr": 0.25
+    },
+    {
+      "direction": "Pickup",
+      "startTime": "8AM-12PM",
+      "twoHr": -0.4,
+      "fourHrAM": 0,
+      "fourHrPM": 0,
+      "eightHr": 0.25
+    },
+    {
+      "direction": "Pickup",
+      "startTime": "12PM Onwards",
+      "twoHr": -0.4,
+      "fourHrAM": 0.25,
+      "fourHrPM": 0.25,
+      "eightHr": 0.25
+    }
+  ]
+}

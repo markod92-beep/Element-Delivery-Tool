@@ -7,9 +7,154 @@ datasource db {
   provider = "postgresql"
 }
 
-model Test {
+model User {
+  id           String     @id @default(cuid())
+  email        String     @unique
+  name         String
+  passwordHash String
+  role         String     @default("user")
+  isActive     Boolean    @default(true)
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+  lastLogin    DateTime?
+  quotes       Quote[]
+  auditLogs    AuditLog[]
+}
+
+model FsaZone {
+  id           Int     @id @default(autoincrement())
+  fsa          String  @unique
+  zone         String
+  description  String
+  distanceKm   Float
+  distanceBand String
+  isActive     Boolean @default(true)
+  regionId     String?
+}
+
+model DistancePricing {
+  id       Int     @id @default(autoincrement())
+  band     String  @unique
+  ltlRate  Float
+  ftlRate  Float
+  minOrder Float
+  rateType String
+  notes    String?
+  isActive Boolean @default(true)
+  regionId String?
+}
+
+model Venue {
+  id              Int     @id @default(autoincrement())
+  name            String  @unique
+  altName         String?
+  associatedFSAs  String
+  feeRate         Float
+  feeType         String
+  cfrMultiplier   Float   @default(1.0)
+  kmFromWarehouse Float
+  notes           String?
+  isActive        Boolean @default(true)
+  regionId        String?
+}
+
+model Complexity {
+  id        Int     @id @default(autoincrement())
+  item      String  @unique
+  surcharge Float
+  category  String
+  notes     String?
+  isActive  Boolean @default(true)
+  sortOrder Int
+}
+
+model CfrItem {
+  id            Int     @id @default(autoincrement())
+  name          String  @unique
+  truckCapacity Int
+  setupTimeMin  Float
+  category      String
+  isActive      Boolean @default(true)
+  sortOrder     Int
+}
+
+model Config {
+  id         Int     @id @default(autoincrement())
+  key        String  @unique
+  value      String
+  label      String
+  category   String
+  isEditable Boolean @default(true)
+  regionId   String?
+}
+
+model WindowDiscount {
+  id        Int     @id @default(autoincrement())
+  direction String
+  startTime String
+  twoHr     Float
+  fourHrAM  Float
+  fourHrPM  Float
+  eightHr   Float
+  isActive  Boolean @default(true)
+  regionId  String?
+}
+
+model Quote {
+  id                       String   @id @default(cuid())
+  quoteNumber              String   @unique
+  calculatorType           String
+  userId                   String
+  orderRef                 String?
+  eventDate                DateTime?
+  fsa                      String
+  zoneName                 String
+  distanceKm               Float
+  productRevenue           Float?
+  densityType              String?
+  trucksCharged            Int
+  loadType                 String
+  baseDeliveryFee          Float
+  venueName                String?
+  venueFee                 Float    @default(0)
+  complexitySurcharges     Json?
+  totalComplexity          Float
+  elevatorType             String?
+  elevatorFee              Float    @default(0)
+  deliveryWindow           String?
+  deliveryWindowAdjustment Float    @default(0)
+  pickupWindow             String?
+  pickupWindowAdjustment   Float    @default(0)
+  setupChairs              Int      @default(0)
+  setupTables              Int      @default(0)
+  setupFurniture           Int      @default(0)
+  setupFee                 Float    @default(0)
+  installationLabourCost   Float    @default(0)
+  installationItems        Json?
+  totalDeliveryCost        Float
+  notes                    String?
+  status                   String   @default("draft")
+  createdAt                DateTime @default(now())
+  updatedAt                DateTime @updatedAt
+  parentQuoteId            String?
+  version                  Int      @default(1)
+  customerId               String?
+  expiresAt                DateTime?
+
+  user         User    @relation(fields: [userId], references: [id])
+  parentQuote  Quote?  @relation("QuoteVersions", fields: [parentQuoteId], references: [id])
+  childQuotes  Quote[] @relation("QuoteVersions")
+}
+
+model AuditLog {
   id        String   @id @default(cuid())
-  name      String
+  userId    String
+  action    String
+  tableName String
+  recordId  String
+  oldValue  Json?
+  newValue  Json?
   createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id])
 }
